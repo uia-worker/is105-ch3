@@ -17,6 +17,9 @@ sudo apt install gcc
 
 # Diverse lenker
 [Om svchost](https://docs.microsoft.com/en-us/windows/application-management/svchost-service-refactoring)
+
 [Windows Subsystem for Linux kernel](https://docs.microsoft.com/en-us/windows/wsl/kernel-release-notes)
+
 [4.19.104-microsoft-standard](https://github.com/microsoft/WSL2-Linux-Kernel/releases/tag/4.19.104-microsoft-standard)
+
 [Executable file formats](https://en.wikipedia.org/wiki/Comparison_of_executable_file_formats)
