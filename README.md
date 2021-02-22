@@ -2,7 +2,7 @@
 ## Windows 10 
 
 ## macOS 
-![Unix timeline](https://en.wikipedia.org/wiki/MacOS#/media/File:Unix_timeline.en.svg "Unix timeline")
+![Unix timeline](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Unix_timeline.en.svg/790px-Unix_timeline.en.svg.png "Unix timeline")
 
 ## GNU/Linux
 Ubuntu Linux (eksempler er for en virtualisert versjon: Linux DESKTOP-7JLULRS 4.19.104-microsoft-standard #1 SMP)
