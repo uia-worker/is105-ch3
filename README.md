@@ -4,8 +4,10 @@ Developer PowerShell for VS 2019 er for å kunne kompilere rene MS Windows progr
 
 ## Windows 10 
 ![Windows timeline](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Suite_des_versions_de_Windows.svg/800px-Suite_des_versions_de_Windows.svg.png)
+
 Se i [Hybrid kernel](https://en.wikipedia.org/wiki/Hybrid_kernel):
 > One prominent example of a hybrid kernel is the Microsoft Windows NT kernel that powers all operating systems in the Windows NT family, up to and including Windows 10 and Windows Server 2019, and powers Windows Phone 8, Windows Phone 8.1, and Xbox One.
+
 ![Windows 2000 architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Windows_2000_architecture.svg/468px-Windows_2000_architecture.svg.png "Windows 2000 architecture")
 
 ## macOS 
