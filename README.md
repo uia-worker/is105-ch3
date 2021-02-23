@@ -38,7 +38,7 @@ $ gcc
 Command 'gcc' not found, but can be installed with:
 sudo apt install gcc
 ```
-
+Se [hva som ble installert](notes/aptgcc.txt)
 
 # Diverse lenker
 [Om svchost](https://docs.microsoft.com/en-us/windows/application-management/svchost-service-refactoring)
