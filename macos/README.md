@@ -1,5 +1,5 @@
 # Ekspempler i programmeringsspråket C
-Husk at direkte kompilering, uten å gi noen alternativer (på engelsk options), vil resultere i en eksekverbar fil (Mach-O på macOS). En standard er at denne file for navn *a.out*.
+Husk at direkte kompilering, uten å gi noen alternativer (på engelsk options), vil resultere i en eksekverbar fil (Mach-O på macOS). En standard er at denne file får navn *a.out*.
 
 Dette utføres i Terminal Versjon 2.9.4 (421.1.1) på Darwin Kernel Version 18.5.0: Mon Mar 11 20:40:32 PDT 2019; root:xnu-4903.251.3~3/RELEASE_X86_64 
 ```
