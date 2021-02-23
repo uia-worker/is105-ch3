@@ -19,7 +19,7 @@ a.out: Mach-O 64-bit executable x86_64
 * main02.c - legger inn en printf (se Printf format string) i main funksjon
 ...
 
-#Diverse lenker
+# Diverse lenker
 * [Mach Object Files](http://www.cilinder.be/docs/next/NeXTStep/3.3/nd/DevTools/14_MachO/MachO.htmld/index.html)
 * [Printf format string](https://en.wikipedia.org/wiki/Printf_format_string)
 
