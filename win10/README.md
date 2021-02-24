@@ -8,7 +8,8 @@
 * [CloseHandle](https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle)
 * [PROCESS_INFORMATION](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/ns-processthreadsapi-process_information)
 
-# Oppgaveløsning med eksempel 2.26 fra Silberschatz (2013)
+# Kopiering av fil
+
 ![Oppgaver for kopiering av en fil](../images/silberschatz-figure-2.5.png)
 
 | Oppgave                             | Underoppgaver                 |
@@ -18,7 +19,7 @@
 | Anskaffe filnavn for kopien         | Skrive en prompt til sjermen  |
 |                                     | Aksepter inn-data             |
 
-*prompt** - Oxford English Dictionary beskriver begrepet slikt:
+**prompt** - Oxford English Dictionary beskriver begrepet slikt:
 > Computing. A word, symbol, or message automatically displayed on a screen to indicate that input is required from the user.
 
 [NAOB](https://naob.no/ordbok/prompt_2) tilbyr følgende definisjon:
