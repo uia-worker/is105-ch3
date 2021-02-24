@@ -8,5 +8,5 @@
 * [CloseHandle](https://docs.microsoft.com/en-us/windows/win32/api/handleapi/nf-handleapi-closehandle)
 * [PROCESS_INFORMATION](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/ns-processthreadsapi-process_information)
 
-# Oppgaveløsning med eksemple 2.26 fra Silberschatz (2013)
+# Oppgaveløsning med eksempel 2.26 fra Silberschatz (2013)
 ![]()
