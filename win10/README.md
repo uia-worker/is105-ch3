@@ -24,3 +24,5 @@
 
 [NAOB](https://naob.no/ordbok/prompt_2) tilbyr følgende definisjon:
 > IT, PÅ DATASKJERM  tegn i form av en (som regel blinkende) markør på kommandolinje
+
+![Bilde av prompt i macOS Terminal](../images/jgmbpro-prompt-illustrasjon.png)
