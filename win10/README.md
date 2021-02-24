@@ -9,7 +9,7 @@
 * [PROCESS_INFORMATION](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/ns-processthreadsapi-process_information)
 
 # Oppgaveløsning med eksempel 2.26 fra Silberschatz (2013)
-![Oppgaver for kopiering av en fil](silberschatz-figure-2.5.png)
+![Oppgaver for kopiering av en fil](images/silberschatz-figure-2.5.png)
 
 | Oppgave                             | Underoppgaver                 |
 | ----------------------------------- | ----------------------------- |
