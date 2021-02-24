@@ -17,6 +17,7 @@ a.out: Mach-O 64-bit executable x86_64
 * main00.c - en minimal versjon med kun en temporær main funksjon 
 * main01.c - en litt mindre minimal versjon av en tom main funksjon
 * main02.c - legger inn en printf (se Printf format string) i main funksjon
+* collatz.c - tatt fra [Sean Staz, The CollatzConjecture](https://github.com/SeanStaz/theCollatzConjecture.c)
 ...
 
 # Diverse lenker
