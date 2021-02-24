@@ -9,4 +9,16 @@
 * [PROCESS_INFORMATION](https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/ns-processthreadsapi-process_information)
 
 # Oppgaveløsning med eksempel 2.26 fra Silberschatz (2013)
-![]()
+![Oppgaver for kopiering av en fil](silberschatz-figure-2.5.png)
+
+| Oppgave                             | Underoppgaver                 |
+| ----------------------------------- | ----------------------------- |
+| Anskaffe filnavn som skal kopieres  | Skrive en prompt til skjermen |
+|                                     | Aksepter inn-data             |
+| Anskaffe filnavn for kopien         | Skrive en prompt til sjermen  |
+|                                     | Aksepter inn-data             |
+
+*prompt** - Oxford English Dictionary beskriver begrepet slikt:
+> Computing. A word, symbol, or message automatically displayed on a screen to indicate that input is required from the user.
+[NAOB](https://naob.no/ordbok/prompt_2) tilbyr følgende definisjon:
+> IT, PÅ DATASKJERM  tegn i form av en (som regel blinkende) markør på kommandolinje
