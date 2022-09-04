@@ -2,7 +2,7 @@
 Alle kommandoer i dette dokumentet, som hører til en kommandofortolker (Terminal 2.9.4 på macOS, Git-bash MINGW64_NT_10.0-19041, Developer PowerShell for VS 2019 og Linux 4.19.104-microsoft-standard på MS Windows 10), presenteres med $ foran kommandoet.
 Developer PowerShell for VS 2019 er for å kunne kompilere rene MS Windows programmer.
 
-Som å fly en Boeing.
+Som å fly en Boeing. Prøv først med Cesna.
 
 ## Windows 10 
 ![Windows timeline](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Suite_des_versions_de_Windows.svg/800px-Suite_des_versions_de_Windows.svg.png)
